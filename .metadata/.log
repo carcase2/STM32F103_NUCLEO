@@ -1,0 +1,18 @@
+!SESSION 2022-08-19 18:00:47.003 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-08-19 18:01:18.050
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-08-19 18:01:18.131
+!MESSAGE Log4j initialized with config file D:\project\stm32f103\STM32F103_NUCLEO\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-08-19 18:01:22.327
+!MESSAGE Started RMI Server, listening on port 41338
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-08-19 18:01:46.204
+!MESSAGE Indexed '2-2. input_timer interrupt' (20 sources, 108 headers) in 4.08 sec: 8,246 declarations; 30,713 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.48%)
